@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+
+# Django
+db.sqlite3
+
+# JSON DB files
+db/*.json
+
+# Virtual environment
+venv/
+
+# TXT out files
+out/*.txt

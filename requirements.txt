@@ -1,0 +1,7 @@
+#Add the project dependencies to this file
+asgiref==3.9.1
+Django==5.2.5
+djangorestframework==3.16.1
+filelock==3.18.0
+sqlparse==0.5.3
+tzdata==2025.2
